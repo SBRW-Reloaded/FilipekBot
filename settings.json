@@ -1,0 +1,13 @@
+{
+    "DiscordToken": "",
+    "RoleRequired": 0,
+    "BaseURL": "",
+    "CommandPrefix": "#",
+    "AdminAuth": "",
+    "AnotherAuth": "",
+    "MySQLHost": "",
+    "MySQLUser": "",
+    "MySQLPassword": "",
+    "MySQLDatabase": "",
+    "DefaultPresence": ""
+}

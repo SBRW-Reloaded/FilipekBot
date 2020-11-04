@@ -62,7 +62,7 @@ client.on('message', message => {
         
         switch(args['0']) {
 			case 'stats':
-                var url = "http://worldonline.pl:2137/Engine.svc/GetServerInformation";
+                var url = Settings.BaseURL + "/Engine.svc/GetServerInformation";
 
                 http.get(url, (resp) => {
                     let data = '';
